@@ -29,5 +29,14 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/winit/.m2/repository/org/checkerframework/checker-qual/3.33.0/checker-qual-3.33.0.jar" sourcepath="C:/Users/winit/.m2/repository/org/checkerframework/checker-qual/3.33.0/checker-qual-3.33.0-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.checkerframework"/>
+			<attribute name="maven.artifactId" value="checker-qual"/>
+			<attribute name="maven.version" value="3.33.0"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
